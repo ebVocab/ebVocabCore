@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<keyMap name="Hebrew Keyboard" locale='hi'>
+    <key row='0' column='0' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text=';' chars='&#59;'/>
+            <generate text=';' chars='&#59;'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='&#1456;'/>
+            <generate text='' chars='&#1456;'/>
+        </keyMode>
+    </key>
+    <key row='0' column='1' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='1' chars='\u0031'/>
+            <generate text='1' chars='\u0031'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u05B1'/>
+            <generate text='' chars='\u05B1'/>
+        </keyMode>
+    </key>
+    <key row='0' column='2' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='2' chars='\u0032'/>
+            <generate text='2' chars='\u0032'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u05B2'/>
+            <generate text='' chars='\u05B2'/>
+        </keyMode>
+    </key>
+    <key row='0' column='3' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='3' chars='\u0033'/>
+            <generate text='3' chars='\u0033'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u05B3'/>
+            <generate text='' chars='\u05B3'/>
+        </keyMode>
+    </key>
+    <key row='0' column='4' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='4' chars='\u0034'/>
+            <generate text='4' chars='\u0034'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u05B4'/>
+            <generate text='' chars='\u05B4'/>
+        </keyMode>
+    </key>
+    <key row='0' column='5' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='5' chars='\u0035'/>
+            <generate text='5' chars='\u0035'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u05B5'/>
+            <generate text='' chars='\u05B5'/>
+        </keyMode>
+    </key>
+    <key row='0' column='6' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='6' chars='\u0036'/>
+            <generate text='6' chars='\u0036'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u05B6'/>
+            <generate text='' chars='\u05B6'/>
+        </keyMode>
+    </key>
+    <key row='0' column='7' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='7' chars='\u0037'/>
+            <generate text='7' chars='\u0037'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u05B7'/>
+            <generate text='' chars='\u05B7'/>
+        </keyMode>
+    </key>
+    <key row='0' column='8' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='8' chars='\u0038'/>
+            <generate text='8' chars='\u0038'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u05B8'/>
+            <generate text='' chars='\u05B8'/>
+        </keyMode>
+    </key>
+    <key row='0' column='9' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='9' chars='\u0039'/>
+            <generate text='9' chars='\u0039'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u05C2'/>
+            <generate text='' chars='\u05C2'/>
+        </keyMode>
+    </key>
+    <key row='0' column='10' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='0' chars='\u0030'/>
+            <generate text='0' chars='\u0030'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u05C1'/>
+            <generate text='' chars='\u05C1'/>
+        </keyMode>
+    </key>
+    <key row='0' column='11' capitalOnly='false'>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u05B9'/>
+            <generate text='' chars='\u05B9'/>
+        </keyMode>
+    </key>
+    <key row='0' column='12' capitalOnly='false'>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u05BC'/>
+            <generate text='' chars='\u05BC'/>
+        </keyMode>
+    </key>
+    <key row='1' column='0' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='/' chars='\u002F'/>
+            <generate text='/' chars='\u002F'/>
+        </keyMode>
+    </key>
+    <key row='1' column='1' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='&apos;' chars='\u0027'/>
+            <generate text='&apos;' chars='\u0027'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u05BB'/>
+            <generate text='' chars='\u05BB'/>
+        </keyMode>
+    </key>
+    <key row='1' column='2' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ק' chars='\u05E7'/>
+            <generate text='ק' chars='\u05E7'/>
+        </keyMode>
+    </key>
+    <key row='1' column='3' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ר' chars='\u05E8'/>
+            <generate text='ר' chars='\u05E8'/>
+        </keyMode>
+    </key>
+    <key row='1' column='4' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='א' chars='\u05D0'/>
+            <generate text='א' chars='\u05D0'/>
+        </keyMode>
+    </key>
+    <key row='1' column='5' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ט' chars='\u05D8'/>
+            <generate text='ט' chars='\u05D8'/>
+        </keyMode>
+    </key>
+    <key row='1' column='6' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ו' chars='\u05D5'/>
+            <generate text='ו' chars='\u05D5'/>
+        </keyMode>
+    </key>
+    <key row='1' column='7' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ן' chars='\u05DF'/>
+            <generate text='ן' chars='\u05DF'/>
+        </keyMode>
+    </key>
+    <key row='1' column='8' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ם' chars='\u05DD'/>
+            <generate text='ם' chars='\u05DD'/>
+        </keyMode>
+    </key>
+    <key row='1' column='9' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='פ' chars='\u05E4'/>
+            <generate text='פ' chars='\u05E4'/>
+        </keyMode>
+    </key>
+    <key row='2' column='0' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ש' chars='\u05E9'/>
+            <generate text='ש' chars='\u05E9'/>
+        </keyMode>
+    </key>
+    <key row='2' column='1' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ד' chars='\u05D3'/>
+            <generate text='ד' chars='\u05D3'/>
+        </keyMode>
+    </key>
+    <key row='2' column='2' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ג' chars='\u05D2'/>
+            <generate text='ג' chars='\u05D2'/>
+        </keyMode>
+    </key>
+    <key row='2' column='3' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='כ' chars='\u05DB'/>
+            <generate text='כ' chars='\u05DB'/>
+        </keyMode>
+    </key>
+    <key row='2' column='4' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ע' chars='\u05E2'/>
+            <generate text='ע' chars='\u05E2'/>
+        </keyMode>
+    </key>
+    <key row='2' column='5' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='י' chars='\u05D9'/>
+            <generate text='י' chars='\u05D9'/>
+        </keyMode>
+    </key>
+    <key row='2' column='6' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ח' chars='\u05D7'/>
+            <generate text='ח' chars='\u05D7'/>
+        </keyMode>
+    </key>
+    <key row='2' column='7' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ל' chars='\u05DC'/>
+            <generate text='ל' chars='\u05DC'/>
+        </keyMode>
+    </key>
+    <key row='2' column='8' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ך' chars='\u05DA'/>
+            <generate text='ך' chars='\u05DA'/>
+        </keyMode>
+    </key>
+    <key row='2' column='9' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ף' chars='\u05E3'/>
+            <generate text='ף' chars='\u05E3'/>
+        </keyMode>
+    </key>
+    <key row='2' column='10' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text=',' chars='\u002c'/>
+            <generate text=',' chars='\u002c'/>
+        </keyMode>
+    </key>
+    <key row='3' column='0' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='\' chars='\u005C'/>
+            <generate text='\' chars='\u005C'/>
+        </keyMode>
+    </key>
+    <key row='3' column='1' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ז' chars='\u05D6'/>
+            <generate text='ז' chars='\u05D6'/>
+        </keyMode>
+    </key>
+    <key row='3' column='2' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ס' chars='\u05E1'/>
+            <generate text='ס' chars='\u05E1'/>
+        </keyMode>
+    </key>
+    <key row='3' column='3' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ב' chars='\u05DA'/>
+            <generate text='ב' chars='\u05DA'/>
+        </keyMode>
+    </key>
+    <key row='3' column='4' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ה' chars='\u05D4'/>
+            <generate text='ה' chars='\u05D4'/>
+        </keyMode>
+    </key>
+    <key row='3' column='5' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='נ' chars='\u05E0'/>
+            <generate text='נ' chars='\u05E0'/>
+        </keyMode>
+    </key>
+    <key row='3' column='6' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='מ' chars='\u05DE'/>
+            <generate text='מ' chars='\u05DE'/>
+        </keyMode>
+    </key>
+    <key row='3' column='7' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='צ' chars='\u05E6'/>
+            <generate text='צ' chars='\u05E6'/>
+        </keyMode>
+    </key>
+    <key row='3' column='8' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ת' chars='\u05EA'/>
+            <generate text='ת' chars='\u05EA'/>
+        </keyMode>
+    </key>
+    <key row='3' column='9' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ץ' chars='\u05E5'/>
+            <generate text='ץ' chars='\u05E5'/>
+        </keyMode>
+    </key>
+</keyMap>

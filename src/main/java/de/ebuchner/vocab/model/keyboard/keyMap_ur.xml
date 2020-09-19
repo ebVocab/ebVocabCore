@@ -1,0 +1,634 @@
+<?xml version='1.0' encoding='utf-8'?>
+<keyMap name="Urdu Phonetic Keyboard" locale='ur'>
+    <key row='0' column='0'>
+        <!-- ARABIC KASRATAN -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u064D'/>
+            <generate chars='\u064D'/>
+        </keyMode>
+        <!-- ARABIC FATHATAN -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u064B'/>
+            <generate chars='\u064B'/>
+        </keyMode>
+    </key>
+    <key row='0' column='1'>
+        <keyMode shift='false' altGR='false'>
+            <display text='1' chars='\u0031'/>
+            <generate text='1' chars='\u0031'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='!' chars='\u0021'/>
+            <generate text='!' chars='\u0021'/>
+        </keyMode>
+        <!-- EXTENDED ARABIC-INDIC DIGIT ONE -->
+        <keyMode shift='false' altGR='true'>
+            <display chars='\u06F1'/>
+            <generate chars='\u06F1'/>
+        </keyMode>
+    </key>
+    <key row='0' column='2'>
+        <keyMode shift='false' altGR='false'>
+            <display text='2' chars='\u0032'/>
+            <generate text='2' chars='\u0032'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='@' chars='\u0040'/>
+            <generate text='@' chars='\u0040'/>
+        </keyMode>
+        <!-- EXTENDED ARABIC-INDIC DIGIT TWO -->
+        <keyMode shift='false' altGR='true'>
+            <display chars='\u06F2'/>
+            <generate chars='\u06F2'/>
+        </keyMode>
+    </key>
+    <key row='0' column='3'>
+        <keyMode shift='false' altGR='false'>
+            <display text='3' chars='\u0033'/>
+            <generate text='3' chars='\u0033'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='#' chars='\u0023'/>
+            <generate text='#' chars='\u0023'/>
+        </keyMode>
+        <!-- EXTENDED ARABIC-INDIC DIGIT THREE -->
+        <keyMode shift='false' altGR='true'>
+            <display chars='\u06F3'/>
+            <generate chars='\u06F3'/>
+        </keyMode>
+    </key>
+    <key row='0' column='4'>
+        <keyMode shift='false' altGR='false'>
+            <display text='4' chars='\u0034'/>
+            <generate text='4' chars='\u0034'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='$' chars='\u0024'/>
+            <generate text='$' chars='\u0024'/>
+        </keyMode>
+        <!-- EXTENDED ARABIC-INDIC DIGIT FOUR -->
+        <keyMode shift='false' altGR='true'>
+            <display chars='\u06F4'/>
+            <generate chars='\u06F4'/>
+        </keyMode>
+    </key>
+    <key row='0' column='5'>
+        <keyMode shift='false' altGR='false'>
+            <display text='5' chars='\u0035'/>
+            <generate text='5' chars='\u0035'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='%' chars='\u0025'/>
+            <generate text='%' chars='\u0025'/>
+        </keyMode>
+        <!-- EXTENDED ARABIC-INDIC DIGIT FIVE -->
+        <keyMode shift='false' altGR='true'>
+            <display chars='\u06F5'/>
+            <generate chars='\u06F5'/>
+        </keyMode>
+    </key>
+    <key row='0' column='6'>
+        <!--
+        <keyMode shift='true' altGR='false'>
+            <display text='^' chars='\u005e'/>
+            <generate text='^' chars='\u005e'/>
+        </keyMode>
+        -->
+        <keyMode shift='false' altGR='false'>
+            <display text='6' chars='\u0036'/>
+            <generate text='6' chars='\u0036'/>
+        </keyMode>
+        <!-- EXTENDED ARABIC-INDIC DIGIT SIX -->
+        <keyMode shift='false' altGR='true'>
+            <display chars='\u06F6'/>
+            <generate chars='\u06F6'/>
+        </keyMode>
+    </key>
+    <key row='0' column='7'>
+        <keyMode shift='false' altGR='false'>
+            <display text='7' chars='\u0037'/>
+            <generate text='7' chars='\u0037'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='&amp;' chars='\u0026'/>
+            <generate text='&amp;' chars='\u0026'/>
+        </keyMode>
+        <!-- EXTENDED ARABIC-INDIC DIGIT SEVEN -->
+        <keyMode shift='false' altGR='true'>
+            <display chars='\u06F7'/>
+            <generate chars='\u06F7'/>
+        </keyMode>
+    </key>
+    <key row='0' column='8'>
+        <keyMode shift='false' altGR='false'>
+            <display text='8' chars='\u0038'/>
+            <generate text='8' chars='\u0038'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='*' chars='\u002a'/>
+            <generate text='*' chars='\u002a'/>
+        </keyMode>
+        <!-- EXTENDED ARABIC-INDIC DIGIT EIGHT -->
+        <keyMode shift='false' altGR='true'>
+            <display chars='\u06F8'/>
+            <generate chars='\u06F8'/>
+        </keyMode>
+    </key>
+    <key row='0' column='9'>
+        <keyMode shift='false' altGR='false'>
+            <display text='9' chars='\u0039'/>
+            <generate text='9' chars='\u0039'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='(' chars='\u0028'/>
+            <generate text='(' chars='\u0028'/>
+        </keyMode>
+        <!-- EXTENDED ARABIC-INDIC DIGIT NINE -->
+        <keyMode shift='false' altGR='true'>
+            <display chars='\u06F9'/>
+            <generate chars='\u06F9'/>
+        </keyMode>
+    </key>
+    <key row='0' column='10'>
+        <keyMode shift='false' altGR='false'>
+            <display text='0' chars='\u0030'/>
+            <generate text='0' chars='\u0030'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text=')' chars='\u0029'/>
+            <generate text=')' chars='\u0029'/>
+        </keyMode>
+        <!-- EXTENDED ARABIC-INDIC DIGIT ZERO -->
+        <keyMode shift='false' altGR='true'>
+            <display chars='\u06F0'/>
+            <generate chars='\u06F0'/>
+        </keyMode>
+    </key>
+    <key row='0' column='11'>
+        <keyMode shift='false' altGR='false'>
+            <display text='-' chars='\u002d'/>
+            <generate text='-' chars='\u002d'/>
+        </keyMode>
+        <!--
+        <keyMode shift='true' altGR='false'>
+            <display text='_' chars='\u005f'/>
+            <generate text='_' chars='\u005f'/>
+        </keyMode>
+        -->
+    </key>
+
+    <key row='0' column='12'>
+        <!--
+            <keyMode shift='false' altGR='false'>
+                <display text='=' chars='\u003d'/>
+                <generate text='=' chars='\u003d'/>
+            </keyMode>
+            <keyMode shift='true' altGR='false'>
+                <display text='+' chars='\u002b'/>
+                <generate text='+' chars='\u002b'/>
+            </keyMode>
+        -->
+    </key>
+    <key row='1' column='0'>
+        <!-- qaf (ARABIC LETTER QAF) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0642'/>
+            <generate chars='\u0642'/>
+        </keyMode>
+        <!-- jazm (no vowel) (ARABIC SUKUN) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u0652'/>
+            <generate chars='\u0652'/>
+        </keyMode>
+    </key>
+    <key row='1' column='1'>
+        <!-- vao (ARABIC LETTER WAW) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0648'/>
+            <generate chars='\u0648'/>
+        </keyMode>
+        <!--
+        <keyMode shift='true' altGR='false'>
+            <display text='W' chars='\u0057'/>
+            <generate text='W' chars='\u0057'/>
+        </keyMode>
+        -->
+    </key>
+    <key row='1' column='2'>
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0639'/>
+            <generate chars='\u0639'/>
+        </keyMode>
+        <!--
+        <keyMode shift='true' altGR='false'>
+            <display text='E' chars='\u0045'/>
+            <generate text='E' chars='\u0045'/>
+        </keyMode>
+        -->
+    </key>
+    <key row='1' column='3'>
+        <!-- re (ARABIC LETTER REH) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0631'/>
+            <generate chars='\u0631'/>
+        </keyMode>
+        <!-- re retroflex (ARABIC LETTER RREH) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u0691'/>
+            <generate chars='\u0691'/>
+        </keyMode>
+    </key>
+    <key row='1' column='4'>
+        <!-- te (ARABIC LETTER TEH) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u062A'/>
+            <generate chars='\u062A'/>
+        </keyMode>
+        <!-- te retroflex (ARABIC LETTER TTEH) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u0679'/>
+            <generate chars='\u0679'/>
+        </keyMode>
+    </key>
+    <key row='1' column='5'>
+        <!--  ARABIC LETTER YEH BARREE -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u06D2'/>
+            <generate chars='\u06D2'/>
+        </keyMode>
+        <!--
+        <keyMode shift='true' altGR='false'>
+            <display text='Y' chars='\u0059'/>
+            <generate text='Y' chars='\u0059'/>
+        </keyMode>
+        -->
+    </key>
+    <key row='1' column='6'>
+        <!--
+        <keyMode shift='false' altGR='false'>
+            <display text='u' chars='\u0075'/>
+            <generate text='u' chars='\u0075'/>
+        </keyMode>
+        -->
+        <!-- hamza (ARABIC LETTER HAMZA ABOVE) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u0654'/>
+            <generate chars='\u0654'/>
+        </keyMode>
+    </key>
+    <key row='1' column='7'>
+        <!-- ye (ARABIC LETTER FARSI YEH) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u06CC'/>
+            <generate chars='\u06CC'/>
+        </keyMode>
+        <!--
+        <keyMode shift='true' altGR='false'>
+            <display text='I' chars='\u0049'/>
+            <generate text='I' chars='\u0049'/>
+        </keyMode>
+        -->
+    </key>
+    <key row='1' column='8'>
+        <!-- choti he (ARABIC LETTER HEH GOAL) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u06C1'/>
+            <generate chars='\u06C1'/>
+        </keyMode>
+        <!--
+        <keyMode shift='true' altGR='false'>
+            <display text='O' chars='\u004f'/>
+            <generate text='O' chars='\u004f'/>
+        </keyMode>
+        -->
+    </key>
+    <key row='1' column='9'>
+        <!-- pe (ARABIC LETTER PEH) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u067e'/>
+            <generate chars='\u067e'/>
+        </keyMode>
+        <!-- pesh (vocal sign u) (ARABIC DAMMA) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u064F'/>
+            <generate chars='\u064F'/>
+        </keyMode>
+    </key>
+    <key row='1' column='10'>
+        <!--
+        <keyMode shift='true' altGR='false'>
+            <display text='{' chars='\u007B'/>
+            <generate text='{' chars='\u007B'/>
+        </keyMode>
+        <keyMode shift='false' altGR='false'>
+            <display text='[' chars='\u005B'/>
+            <generate text='[' chars='\u005B'/>
+        </keyMode>
+        -->
+    </key>
+    <key row='1' column='11'>
+        <!--
+        <keyMode shift='false' altGR='false'>
+            <display text=']' chars='\u005D'/>
+            <generate text=']' chars='\u005D'/>
+        </keyMode>
+        -->
+        <!-- tashdid (repeated character (ARABIC SHADDA) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u0651'/>
+            <generate chars='\u0651'/>
+        </keyMode>
+
+    </key>
+    <key row='2' column='0'>
+        <!-- alif (ARABIC LETTER ALEF) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0627'/>
+            <generate chars='\u0627'/>
+        </keyMode>
+        <!-- alif madd (ARABIC LETTER ALEF WITH MADDA ABOVE) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u0622'/>
+            <generate chars='\u0622'/>
+        </keyMode>
+    </key>
+    <key row='2' column='1'>
+        <!-- sin (ARABIC LETTER SEEN) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0633'/>
+            <generate chars='\u0633'/>
+        </keyMode>
+        <!-- svad (ARABIC LETTER SAD) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u0635'/>
+            <generate chars='\u0635'/>
+        </keyMode>
+        <!--
+        <keyMode shift='true' altGR='true'>
+            <display text='§' chars='\u00a7'/>
+            <generate text='§' chars='\u00a7'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='ß' chars='\u00df'/>
+            <generate text='ß' chars='\u00df'/>
+        </keyMode>
+        -->
+    </key>
+    <key row='2' column='2'>
+        <!-- dal (ARABIC LETTER DAL) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u062F'/>
+            <generate chars='\u062F'/>
+        </keyMode>
+        <!-- dal retroflex (ARABIC LETTER DDAL) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u0688'/>
+            <generate chars='\u0688'/>
+        </keyMode>
+    </key>
+    <key row='2' column='3'>
+        <!-- fe (ARABIC LETTER FEH) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0641'/>
+            <generate chars='\u0641'/>
+        </keyMode>
+        <!--
+        <keyMode shift='true' altGR='false'>
+            <display text='F' chars='\u0046'/>
+            <generate text='F' chars='\u0046'/>
+        </keyMode>
+        -->
+    </key>
+    <key row='2' column='4'>
+        <!-- gaf (ARABIC LETTER GAF) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u06AF'/>
+            <generate chars='\u06AF'/>
+        </keyMode>
+        <!-- ghain (ARABIC LETTER GHAIN) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u063A'/>
+            <generate chars='\u063A'/>
+        </keyMode>
+    </key>
+    <key row='2' column='5'>
+        <!-- do cashme he (ARABIC LETTER HEH DOACHASHMEE) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u06BE'/>
+            <generate chars='\u06BE'/>
+        </keyMode>
+        <!-- bari he (ARABIC LETTER HAH) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u062D'/>
+            <generate chars='\u062D'/>
+        </keyMode>
+    </key>
+    <key row='2' column='6'>
+        <!-- jim (ARABIC LETTER JEEM) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u062C'/>
+            <generate chars='\u062C'/>
+        </keyMode>
+        <!-- zad (ARABIC LETTER DAD) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u0636'/>
+            <generate chars='\u0636'/>
+        </keyMode>
+    </key>
+    <key row='2' column='7'>
+        <!-- kaf (ARABIC LETTER KEHEH) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u06a9'/>
+            <generate chars='\u06a9'/>
+        </keyMode>
+        <!-- khe (ARABIC LETTER KHAH) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u062E'/>
+            <generate chars='\u062E'/>
+        </keyMode>
+    </key>
+    <key row='2' column='8'>
+        <!-- lam (ARABIC LETTER LAM) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0644'/>
+            <generate chars='\u0644'/>
+        </keyMode>
+        <!--
+        <keyMode shift='true' altGR='false'>
+            <display text='L' chars='\u004c'/>
+            <generate text='L' chars='\u004c'/>
+        </keyMode>
+        -->
+    </key>
+    <key row='2' column='9'>
+        <!--
+        <keyMode shift='true' altGR='true'>
+            <display text='°' chars='\u00b0'/>
+            <generate text='°' chars='\u00b0'/>
+        </keyMode>
+        -->
+        <keyMode shift='true' altGR='false'>
+            <display text=':' chars='\u003a'/>
+            <generate text=':' chars='\u003a'/>
+        </keyMode>
+        <!-- ARABIC SEMICOLON -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u061B'/>
+            <generate chars='\u061B'/>
+        </keyMode>
+        -->
+    </key>
+    <key row='2' column='10'>
+        <keyMode shift='true' altGR='false'>
+            <display text='"' chars='\u0022'/>
+            <generate text='"' chars='\u0022'/>
+        </keyMode>
+        <!--
+        <keyMode shift='false' altGR='false'>
+            <display text='&apos;' chars='\u0027'/>
+            <generate text='&apos;' chars='\u0027'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='´' chars='\u00b4'/>
+            <generate text='´' chars='\u00b4'/>
+        </keyMode>
+        -->
+    </key>
+    <key row='2' column='11'>
+        <!-- ARABIC POETIC VERSE SIGN -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u060E'/>
+            <generate chars='\u060E'/>
+        </keyMode>
+        <!-- ARABIC SIGN SAFHA -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u0603'/>
+            <generate chars='\u0603'/>
+        </keyMode>
+    </key>
+    <key row='3' column='1'>
+        <!-- ze (ARABIC LETTER ZAIN) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0632'/>
+            <generate chars='\u0632'/>
+        </keyMode>
+        <!-- zal (ARABIC LETTER THAL) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u630'/>
+            <generate chars='\u0630'/>
+        </keyMode>
+    </key>
+    <key row='3' column='2'>
+        <!-- shin (ARABIC LETTER SHEEN) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0634'/>
+            <generate chars='\u0634'/>
+        </keyMode>
+        <!-- zhe (ARABIC LETTER JEH) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u0698'/>
+            <generate chars='\u0698'/>
+        </keyMode>
+    </key>
+    <key row='3' column='3'>
+        <!-- ce (ARABIC LETTER TCHEH) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0686'/>
+            <generate chars='\u0686'/>
+        </keyMode>
+        <!-- se (ARABIC LETTER THEH) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u062b'/>
+            <generate chars='\u062b'/>
+        </keyMode>
+    </key>
+    <key row='3' column='4'>
+        <!-- to'e (ARABIC LETTER TAH) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0637'/>
+            <generate chars='\u0637'/>
+        </keyMode>
+        <!-- zo'e (ARABIC LETTER ZAH) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u0638'/>
+            <generate chars='\u0638'/>
+        </keyMode>
+    </key>
+    <key row='3' column='5'>
+        <!-- be (ARABIC LETTER BEH) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0628'/>
+            <generate chars='\u0628'/>
+        </keyMode>
+        <!-- ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\uFDFD'/>
+            <generate chars='\uFDFD'/>
+        </keyMode>
+    </key>
+    <key row='3' column='6'>
+        <!-- nun (ARABIC LETTER NOON) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0646'/>
+            <generate chars='\u0646'/>
+        </keyMode>
+        <!-- ARABIC LETTER NOON GHUNNA -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u06BA'/>
+            <generate chars='\u06BA'/>
+        </keyMode>
+    </key>
+    <key row='3' column='7'>
+        <!-- mim (ARABIC LETTER MEEM) -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u0645'/>
+            <generate chars='\u0645'/>
+        </keyMode>
+        <!--
+        <keyMode shift='true' altGR='false'>
+            <display text='M' chars='\u004d'/>
+            <generate text='M' chars='\u004d'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='µ' chars='\u03BC'/>
+            <generate text='µ' chars='\u03BC'/>
+        </keyMode>
+        -->
+    </key>
+    <key row='3' column='8'>
+        <!-- zer (vocal sign i) (ARABIC KASRA) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u0650'/>
+            <generate chars='\u0650'/>
+        </keyMode>
+        <!--  ARABIC COMMA -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u060c'/>
+            <generate chars='\u060c'/>
+        </keyMode>
+    </key>
+    <key row='3' column='9'>
+        <!-- zabar (vocal sign a) (ARABIC FATHA) -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u064E'/>
+            <generate chars='\u064E'/>
+        </keyMode>
+        <!-- ARABIC FULL STOP -->
+        <keyMode shift='false' altGR='false'>
+            <display chars='\u06D4'/>
+            <generate chars='\u06D4'/>
+        </keyMode>
+    </key>
+    <key row='3' column='10'>
+        <keyMode shift='false' altGR='false'>
+            <display text='/' chars='\u002f'/>
+            <generate text='/' chars='\u002f'/>
+        </keyMode>
+        <!-- ARABIC QUESTION MARK -->
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u061F'/>
+            <generate chars='\u061F'/>
+        </keyMode>
+    </key>
+
+</keyMap>

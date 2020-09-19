@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<keyMap name="Arabic Keyboard" locale='ar'>
+    <key row='0' column='0'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ذ' chars='\u0630'/>
+            <generate text='ذ' chars='\u0630'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u0651'/>
+            <generate text='' chars='\u0651'/>
+        </keyMode>
+    </key>
+
+    <key row='0' column='1'>
+        <keyMode shift='false' altGR='false'>
+            <display text='1' chars='\u0031'/>
+            <generate text='1' chars='\u0031'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='!' chars='\u0021'/>
+            <generate text='!' chars='\u0021'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='١' chars='\u0661'/>
+            <generate text='١' chars='\u0661'/>
+        </keyMode>
+    </key>
+    <key row='0' column='2'>
+        <keyMode shift='false' altGR='false'>
+            <display text='2' chars='\u0032'/>
+            <generate text='2' chars='\u0032'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='@' chars='\u0040'/>
+            <generate text='@' chars='\u0040'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='٢' chars='\u0662'/>
+            <generate text='٢' chars='\u0662'/>
+        </keyMode>
+    </key>
+    <key row='0' column='3'>
+        <keyMode shift='false' altGR='false'>
+            <display text='3' chars='\u0033'/>
+            <generate text='3' chars='\u0033'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='#' chars='\u0023'/>
+            <generate text='#' chars='\u0023'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='٣' chars='\u0663'/>
+            <generate text='٣' chars='\u0663'/>
+        </keyMode>
+    </key>
+    <key row='0' column='4'>
+        <keyMode shift='false' altGR='false'>
+            <display text='4' chars='\u0034'/>
+            <generate text='4' chars='\u0034'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='$' chars='\u0024'/>
+            <generate text='$' chars='\u0024'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='٤' chars='\u0664'/>
+            <generate text='٤' chars='\u0664'/>
+        </keyMode>
+    </key>
+    <key row='0' column='5'>
+        <keyMode shift='false' altGR='false'>
+            <display text='5' chars='\u0035'/>
+            <generate text='5' chars='\u0035'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='%' chars='\u0025'/>
+            <generate text='%' chars='\u0025'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='٥' chars='\u0665'/>
+            <generate text='٥' chars='\u0665'/>
+        </keyMode>
+    </key>
+    <key row='0' column='6'>
+        <keyMode shift='true' altGR='false'>
+            <display text='^' chars='\u005e'/>
+            <generate text='^' chars='\u005e'/>
+        </keyMode>
+        <keyMode shift='false' altGR='false'>
+            <display text='6' chars='\u0036'/>
+            <generate text='6' chars='\u0036'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='٦' chars='\u0666'/>
+            <generate text='٦' chars='\u0666'/>
+        </keyMode>
+    </key>
+    <key row='0' column='7'>
+        <keyMode shift='false' altGR='false'>
+            <display text='7' chars='\u0037'/>
+            <generate text='7' chars='\u0037'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='&amp;' chars='\u0026'/>
+            <generate text='&amp;' chars='\u0026'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='٧' chars='\u0667'/>
+            <generate text='٧' chars='\u0667'/>
+        </keyMode>
+    </key>
+    <key row='0' column='8'>
+        <keyMode shift='false' altGR='false'>
+            <display text='8' chars='\u0038'/>
+            <generate text='8' chars='\u0038'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='*' chars='\u002a'/>
+            <generate text='*' chars='\u002a'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='٨' chars='\u0668'/>
+            <generate text='٨' chars='\u0668'/>
+        </keyMode>
+    </key>
+    <key row='0' column='9'>
+        <keyMode shift='false' altGR='false'>
+            <display text='9' chars='\u0039'/>
+            <generate text='9' chars='\u0039'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='(' chars='\u0028'/>
+            <generate text='(' chars='\u0028'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='٩' chars='\u0669'/>
+            <generate text='٩' chars='\u0669'/>
+        </keyMode>
+    </key>
+    <key row='0' column='10'>
+        <keyMode shift='false' altGR='false'>
+            <display text='0' chars='\u0030'/>
+            <generate text='0' chars='\u0030'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text=')' chars='\u0029'/>
+            <generate text=')' chars='\u0029'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='٠' chars='\u0660'/>
+            <generate text='٠' chars='\u0660'/>
+        </keyMode>
+    </key>
+    <key row='0' column='11'>
+        <keyMode shift='false' altGR='false'>
+            <display text='-' chars='\u002d'/>
+            <generate text='-' chars='\u002d'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='_' chars='\u005f'/>
+            <generate text='_' chars='\u005f'/>
+        </keyMode>
+    </key>
+
+    <key row='0' column='12'>
+        <keyMode shift='false' altGR='false'>
+            <display text='=' chars='\u003d'/>
+            <generate text='=' chars='\u003d'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='+' chars='\u002b'/>
+            <generate text='+' chars='\u002b'/>
+        </keyMode>
+    </key>
+
+    <key row='1' column='0'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ض' chars='\u0636'/>
+            <generate text='ض' chars='\u0636'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text="" chars='\u064E'/>
+            <generate text='' chars='\u064E'/>
+        </keyMode>
+    </key>
+    <key row='1' column='1'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ص' chars='\u0636'/>
+            <generate text='ص' chars='\u0636'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u064B'/>
+            <generate text='' chars='\u064B'/>
+        </keyMode>
+    </key>
+    <key row='1' column='2'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ث' chars='\u062B'/>
+            <generate text='ث' chars='\u062B'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u064F'/>
+            <generate text='' chars='\u064F'/>
+        </keyMode>
+    </key>
+    <key row='1' column='3'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ق' chars='\u0642'/>
+            <generate text='ق' chars='\u0642'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u064C'/>
+            <generate text='' chars='\u064C'/>
+        </keyMode>
+    </key>
+    <key row='1' column='4'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ف' chars='\u0641'/>
+            <generate text='ف' chars='\u0641'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display chars='\uFEF9'/>
+            <generate chars='\uFEF9'/>
+        </keyMode>
+    </key>
+    <key row='1' column='5'>
+        <keyMode shift='false' altGR='false'>
+            <display text='غ' chars='\u063A'/>
+            <generate text='غ' chars='\u063A'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='إ' chars='\u0625'/>
+            <generate text='إ' chars='\u0625'/>
+        </keyMode>
+    </key>
+    <key row='1' column='6'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ع' chars='\u0639'/>
+            <generate text='ع' chars='\u0639'/>
+        </keyMode>
+    </key>
+    <key row='1' column='7'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ه' chars='\u0647'/>
+            <generate text='ه' chars='\u0647'/>
+        </keyMode>
+    </key>
+    <key row='1' column='8'>
+        <keyMode shift='false' altGR='false'>
+            <display text='خ' chars='\u062E'/>
+            <generate text='خ' chars='\u062E'/>
+        </keyMode>
+    </key>
+    <key row='1' column='9'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ح' chars='\u062D'/>
+            <generate text='ح' chars='\u062D'/>
+        </keyMode>
+    </key>
+    <key row='1' column='10'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ج' chars='\u062C'/>
+            <generate text='ج' chars='\u062C'/>
+        </keyMode>
+    </key>
+    <key row='1' column='11'>
+        <keyMode shift='false' altGR='false'>
+            <display text='د' chars='\u062F'/>
+            <generate text='د' chars='\u062F'/>
+        </keyMode>
+    </key>
+    <key row='2' column='0'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ش' chars='\u0634'/>
+            <generate text='ش' chars='\u0634'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text="" chars='\u0650'/>
+            <generate text='' chars='\u0650'/>
+        </keyMode>
+    </key>
+    <key row='2' column='1'>
+        <keyMode shift='false' altGR='false'>
+            <display text='س' chars='\u0633'/>
+            <generate text='س' chars='\u0633'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display chars='\u064d'/>
+            <generate chars='\u064d'/>
+        </keyMode>
+    </key>
+    <key row='2' column='2'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ي' chars='\u064A'/>
+            <generate text='ي' chars='\u064A'/>
+        </keyMode>
+    </key>
+    <key row='2' column='3'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ب' chars='\u0628'/>
+            <generate text='ب' chars='\u0628'/>
+        </keyMode>
+    </key>
+    <key row='2' column='4'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ل' chars='\u0644'/>
+            <generate text='ل' chars='\u0644'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='لأ' chars='\uFEF7'/>
+            <generate text='لأ' chars='\uFEF7'/>
+        </keyMode>
+    </key>
+    <key row='2' column='5'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ا' chars='\u0627'/>
+            <generate text='ا' chars='\u0627'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='أ' chars='\u0623'/>
+            <generate text='أ' chars='\u0623'/>
+        </keyMode>
+    </key>
+    <key row='2' column='6'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ت' chars='\u062A'/>
+            <generate text='ت' chars='\u062A'/>
+        </keyMode>
+    </key>
+    <key row='2' column='7'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ن' chars='\u0646'/>
+            <generate text='ن' chars='\u0646'/>
+        </keyMode>
+    </key>
+    <key row='2' column='8'>
+        <keyMode shift='false' altGR='false'>
+            <display text='م' chars='\u0645'/>
+            <generate text='م' chars='\u0645'/>
+        </keyMode>
+    </key>
+    <key row='2' column='9'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ك' chars='\u0643'/>
+            <generate text='ك' chars='\u0643'/>
+        </keyMode>
+    </key>
+    <key row='2' column='10'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ط' chars='\u0637'/>
+            <generate text='ط' chars='\u0637'/>
+        </keyMode>
+    </key>
+    <key row='3' column='0'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ئ' chars='\u0626'/>
+            <generate text='ئ' chars='\u0626'/>
+        </keyMode>
+    </key>
+    <key row='3' column='1'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ء' chars='\u0621'/>
+            <generate text='ء' chars='\u0621'/>
+        </keyMode>
+    </key>
+    <key row='3' column='2'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ؤ' chars='\u0624'/>
+            <generate text='ؤ' chars='\u0624'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='' chars='\u0652'/>
+            <generate text='' chars='\u0652'/>
+        </keyMode>
+
+    </key>
+    <key row='3' column='3'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ر' chars='\u0631'/>
+            <generate text='ر' chars='\u0631'/>
+        </keyMode>
+    </key>
+    <key row='3' column='4'>
+        <keyMode shift='false' altGR='false'>
+            <display text='لا' chars='\uFEFB'/>
+            <generate text='لا' chars='\uFEFB'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='لآ' chars='\uFEF6'/>
+            <generate text='لآ' chars='\uFEF6'/>
+        </keyMode>
+    </key>
+    <key row='3' column='5'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ى' chars='\u0649'/>
+            <generate text='ى' chars='\u0649'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='آ' chars='\u0622'/>
+            <generate text='آ' chars='\u0622'/>
+        </keyMode>
+    </key>
+    <key row='3' column='6'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ة' chars='\u0629'/>
+            <generate text='ة' chars='\u0629'/>
+        </keyMode>
+    </key>
+    <key row='3' column='7'>
+        <keyMode shift='false' altGR='false'>
+            <display text='و' chars='\u0648'/>
+            <generate text='و' chars='\u0648'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text=',' chars='\u060C'/>
+            <generate text=',' chars='\u060C'/>
+        </keyMode>
+    </key>
+    <key row='3' column='8'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ز' chars='\u0632'/>
+            <generate text='ز' chars='\u0632'/>
+        </keyMode>
+    </key>
+    <key row='3' column='9'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ظ' chars='\u0638'/>
+            <generate text='ظ' chars='\u0638'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='؟' chars='\u061F'/>
+            <generate text='؟' chars='\u061F'/>
+        </keyMode>
+    </key>
+</keyMap>

@@ -1,0 +1,594 @@
+<?xml version='1.0' encoding='utf-8'?>
+<keyMap name="Hindi Inscript Keyboard" locale='hi'>
+    <key row='0' column='0' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ॊ' chars='\u094a'/>
+            <generate text='ॊ' chars='\u094a'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ऒ' chars='\u0912'/>
+            <generate text='ऒ' chars='\u0912'/>
+        </keyMode>
+    </key>
+    <key row='0' column='1' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='1' chars='\u0031'/>
+            <generate text='1' chars='\u0031'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='१' chars='\u0967'/>
+            <generate text='१' chars='\u0967'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ऍ' chars='\u090d'/>
+            <generate text='ऍ' chars='\u090d'/>
+        </keyMode>
+    </key>
+    <key row='0' column='2' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='2' chars='\u0032'/>
+            <generate text='2' chars='\u0032'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='२' chars='\u0968'/>
+            <generate text='२' chars='\u0968'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ॅ' chars='\u0945'/>
+            <generate text='ॅ' chars='\u0945'/>
+        </keyMode>
+    </key>
+    <key row='0' column='3' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='3' chars='\u0033'/>
+            <generate text='3' chars='\u0033'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='३' chars='\u0969'/>
+            <generate text='३' chars='\u0969'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='्र' chars='\u094d\u0930'/>
+            <generate text='्र' chars='\u094d\u0930'/>
+        </keyMode>
+    </key>
+    <key row='0' column='4' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='4' chars='\u0034'/>
+            <generate text='4' chars='\u0034'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='४' chars='\u096a'/>
+            <generate text='४' chars='\u096a'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='र्' chars='\u0930\u094d'/>
+            <generate text='र्' chars='\u0930\u094d'/>
+        </keyMode>
+    </key>
+    <key row='0' column='5' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='5' chars='\u0035'/>
+            <generate text='5' chars='\u0035'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='५' chars='\u096b'/>
+            <generate text='५' chars='\u096b'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ज्ञ' chars='\u091c\u094d\u091e'/>
+            <generate text='ज्ञ' chars='\u091c\u094d\u091e'/>
+        </keyMode>
+    </key>
+    <key row='0' column='6' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='6' chars='\u0036'/>
+            <generate text='6' chars='\u0036'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='६' chars='\u096c'/>
+            <generate text='६' chars='\u096c'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='त्र' chars='\u0924\u094d\u0930'/>
+            <generate text='त्र' chars='\u0924\u094d\u0930'/>
+        </keyMode>
+    </key>
+    <key row='0' column='7' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='7' chars='\u0037'/>
+            <generate text='7' chars='\u0037'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='७' chars='\u096d'/>
+            <generate text='७' chars='\u096d'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='क्ष' chars='\u0915\u094d\u0937'/>
+            <generate text='क्ष' chars='\u0915\u094d\u0937'/>
+        </keyMode>
+    </key>
+    <key row='0' column='8' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='8' chars='\u0038'/>
+            <generate text='8' chars='\u0038'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='८' chars='\u096e'/>
+            <generate text='८' chars='\u096e'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='श्र' chars='\u0936\u094d\u0930'/>
+            <generate text='श्र' chars='\u0936\u094d\u0930'/>
+        </keyMode>
+    </key>
+    <key row='0' column='9' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='9' chars='\u0039'/>
+            <generate text='9' chars='\u0039'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='९' chars='\u096f'/>
+            <generate text='९' chars='\u096f'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='(' chars='\u0028'/>
+            <generate text='(' chars='\u0028'/>
+        </keyMode>
+    </key>
+    <key row='0' column='10' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='0' chars='\u0030'/>
+            <generate text='0' chars='\u0030'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='०' chars='\u0966'/>
+            <generate text='०' chars='\u0966'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text=')' chars='\u0029'/>
+            <generate text=')' chars='\u0029'/>
+        </keyMode>
+    </key>
+    <key row='0' column='11' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='-' chars='\u002d'/>
+            <generate text='-' chars='\u002d'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ः' chars='\u0903'/>
+            <generate text='ः' chars='\u0903'/>
+        </keyMode>
+    </key>
+    <key row='0' column='12' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ृ' chars='\u0943'/>
+            <generate text='ृ' chars='\u0943'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ऋ' chars='\u090b'/>
+            <generate text='ऋ' chars='\u090b'/>
+        </keyMode>
+        <keyMode shift='true' altGR='true'>
+            <display text='ॠ' chars='\u0960'/>
+            <generate text='ॠ' chars='\u0960'/>
+        </keyMode>
+    </key>
+    <key row='1' column='0' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ौ' chars='\u094c'/>
+            <generate text='ौ' chars='\u094c'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='औ' chars='\u0914'/>
+            <generate text='औ' chars='\u0914'/>
+        </keyMode>
+    </key>
+    <key row='1' column='1' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ै' chars='\u0948'/>
+            <generate text='ै' chars='\u0948'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ऐ' chars='\u0910'/>
+            <generate text='ऐ' chars='\u0910'/>
+        </keyMode>
+    </key>
+    <key row='1' column='2' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ा' chars='\u093e'/>
+            <generate text='ा' chars='\u093e'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='आ' chars='\u0906'/>
+            <generate text='आ' chars='\u0906'/>
+        </keyMode>
+    </key>
+    <key row='1' column='3' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ी' chars='\u0940'/>
+            <generate text='ी' chars='\u0940'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ई' chars='\u0908'/>
+            <generate text='ई' chars='\u0908'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='ॣ' chars='\u0963'/>
+            <generate text='ॣ' chars='\u0963'/>
+        </keyMode>
+        <keyMode shift='true' altGR='true'>
+            <display text='ॡ' chars='\u0961'/>
+            <generate text='ॡ' chars='\u0961'/>
+        </keyMode>
+    </key>
+    <key row='1' column='4' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ू' chars='\u0942'/>
+            <generate text='ू' chars='\u0942'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ऊ' chars='\u090a'/>
+            <generate text='ऊ' chars='\u090a'/>
+        </keyMode>
+    </key>
+    <key row='1' column='5' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ब' chars='\u092c'/>
+            <generate text='ब' chars='\u092c'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='भ' chars='\u092d'/>
+            <generate text='भ' chars='\u092d'/>
+        </keyMode>
+    </key>
+    <key row='1' column='6' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ह' chars='\u0939'/>
+            <generate text='ह' chars='\u0939'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ङ' chars='\u0919'/>
+            <generate text='ङ' chars='\u0919'/>
+        </keyMode>
+    </key>
+    <key row='1' column='7' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ग' chars='\u0917'/>
+            <generate text='ग' chars='\u0917'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='घ' chars='\u0918'/>
+            <generate text='घ' chars='\u0918'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='ग़' chars='\u095a'/>
+            <generate text='ग़' chars='\u095a'/>
+        </keyMode>
+    </key>
+    <key row='1' column='8' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='द' chars='\u0926'/>
+            <generate text='द' chars='\u0926'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ध' chars='\u0927'/>
+            <generate text='ध' chars='\u0927'/>
+        </keyMode>
+    </key>
+    <key row='1' column='9' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ज' chars='\u091c'/>
+            <generate text='ज' chars='\u091c'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='झ' chars='\u091d'/>
+            <generate text='झ' chars='\u091d'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='ज़' chars='\u095b'/>
+            <generate text='ज़' chars='\u095b'/>
+        </keyMode>
+    </key>
+    <key row='1' column='10' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ड' chars='\u0921'/>
+            <generate text='ड' chars='\u0921'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ढ' chars='\u0922'/>
+            <generate text='ढ' chars='\u0922'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='ड़' chars='\u095c'/>
+            <generate text='ड़' chars='\u095c'/>
+        </keyMode>
+        <keyMode shift='true' altGR='true'>
+            <display text='ढ़' chars='\u095d'/>
+            <generate text='ढ़' chars='\u095d'/>
+        </keyMode>
+    </key>
+    <key row='1' column='11' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='़' chars='\u093c'/>
+            <generate text='़' chars='\u093c'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ञ' chars='\u091e'/>
+            <generate text='ञ' chars='\u091e'/>
+        </keyMode>
+    </key>
+    <key row='2' column='0' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ो' chars='\u094b'/>
+            <generate text='ो' chars='\u094b'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ओ' chars='\u0913'/>
+            <generate text='ओ' chars='\u0913'/>
+        </keyMode>
+    </key>
+    <key row='2' column='1' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='े' chars='\u0947'/>
+            <generate text='े' chars='\u0947'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ए' chars='\u090f'/>
+            <generate text='ए' chars='\u090f'/>
+        </keyMode>
+    </key>
+    <key row='2' column='2' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='्' chars='\u094d'/>
+            <generate text='्' chars='\u094d'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='अ' chars='\u0905'/>
+            <generate text='अ' chars='\u0905'/>
+        </keyMode>
+    </key>
+    <key row='2' column='3' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ि' chars='\u093f'/>
+            <generate text='ि' chars='\u093f'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='इ' chars='\u0907'/>
+            <generate text='इ' chars='\u0907'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='ॢ' chars='\u0962'/>
+            <generate text='ॢ' chars='\u0962'/>
+        </keyMode>
+        <keyMode shift='true' altGR='true'>
+            <display text='ऌ' chars='\u090c'/>
+            <generate text='ऌ' chars='\u090c'/>
+        </keyMode>
+    </key>
+    <key row='2' column='4' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ु' chars='\u0941'/>
+            <generate text='ु' chars='\u0941'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='उ' chars='\u0909'/>
+            <generate text='उ' chars='\u0909'/>
+        </keyMode>
+    </key>
+    <key row='2' column='5' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='प' chars='\u092a'/>
+            <generate text='प' chars='\u092a'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='फ' chars='\u092b'/>
+            <generate text='फ' chars='\u092b'/>
+        </keyMode>
+        <keyMode shift='true' altGR='true'>
+            <display text='फ़' chars='\u095e'/>
+            <generate text='फ़' chars='\u095e'/>
+        </keyMode>
+    </key>
+    <key row='2' column='6' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='र' chars='\u0930'/>
+            <generate text='र' chars='\u0930'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ऱ' chars='\u0931'/>
+            <generate text='ऱ' chars='\u0931'/>
+        </keyMode>
+    </key>
+    <key row='2' column='7' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='क' chars='\u0915'/>
+            <generate text='क' chars='\u0915'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ख' chars='\u0916'/>
+            <generate text='ख' chars='\u0916'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='क़' chars='\u0958'/>
+            <generate text='क़' chars='\u0958'/>
+        </keyMode>
+        <keyMode shift='true' altGR='true'>
+            <display text='ख़' chars='\u0959'/>
+            <generate text='ख़' chars='\u0959'/>
+        </keyMode>
+    </key>
+    <key row='2' column='8' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='त' chars='\u0924'/>
+            <generate text='त' chars='\u0924'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='थ' chars='\u0925'/>
+            <generate text='थ' chars='\u0925'/>
+        </keyMode>
+    </key>
+    <key row='2' column='9' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='च' chars='\u091a'/>
+            <generate text='च' chars='\u091a'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='छ' chars='\u091b'/>
+            <generate text='छ' chars='\u091b'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='॒' chars='\u0952'/>
+            <generate text='॒' chars='\u0952'/>
+        </keyMode>
+    </key>
+    <key row='2' column='10' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ट' chars='\u091f'/>
+            <generate text='ट' chars='\u091f'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ठ' chars='\u0920'/>
+            <generate text='ठ' chars='\u0920'/>
+        </keyMode>
+        <keyMode shift='true' altGR='true'>
+            <display text='॑' chars='\u0951'/>
+            <generate text='॑' chars='\u0951'/>
+        </keyMode>
+    </key>
+    <key row='2' column='11' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ॉ' chars='\u0949'/>
+            <generate text='ॉ' chars='\u0949'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ऑ' chars='\u0911'/>
+            <generate text='ऑ' chars='\u0911'/>
+        </keyMode>
+    </key>
+    <key row='3' column='0' capitalOnly='false'/>
+    <key row='3' column='1' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ॆ' chars='\u0946'/>
+            <generate text='ॆ' chars='\u0946'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ऎ' chars='\u090e'/>
+            <generate text='ऎ' chars='\u090e'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='॓' chars='\u0953'/>
+            <generate text='॓' chars='\u0953'/>
+        </keyMode>
+    </key>
+    <key row='3' column='2' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ं' chars='\u0902'/>
+            <generate text='ं' chars='\u0902'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ँ' chars='\u0901'/>
+            <generate text='ँ' chars='\u0901'/>
+        </keyMode>
+        <keyMode shift='true' altGR='true'>
+            <display text='ॐ' chars='\u0950'/>
+            <generate text='ॐ' chars='\u0950'/>
+        </keyMode>
+    </key>
+    <key row='3' column='3' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='म' chars='\u092e'/>
+            <generate text='म' chars='\u092e'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ण' chars='\u0923'/>
+            <generate text='ण' chars='\u0923'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='॔' chars='\u0954'/>
+            <generate text='॔' chars='\u0954'/>
+        </keyMode>
+    </key>
+    <key row='3' column='4' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='न' chars='\u0928'/>
+            <generate text='न' chars='\u0928'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ऩ' chars='\u0929'/>
+            <generate text='ऩ' chars='\u0929'/>
+        </keyMode>
+    </key>
+    <key row='3' column='5' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='व' chars='\u0935'/>
+            <generate text='व' chars='\u0935'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ऴ' chars='\u0934'/>
+            <generate text='ऴ' chars='\u0934'/>
+        </keyMode>
+    </key>
+    <key row='3' column='6' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ल' chars='\u0932'/>
+            <generate text='ल' chars='\u0932'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ळ' chars='\u0933'/>
+            <generate text='ळ' chars='\u0933'/>
+        </keyMode>
+    </key>
+    <key row='3' column='7' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='स' chars='\u0938'/>
+            <generate text='स' chars='\u0938'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='श' chars='\u0936'/>
+            <generate text='श' chars='\u0936'/>
+        </keyMode>
+    </key>
+    <key row='3' column='8' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text=',' chars='\u002c'/>
+            <generate text=',' chars='\u002c'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='ष' chars='\u0937'/>
+            <generate text='ष' chars='\u0937'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='॰' chars='\u0970'/>
+            <generate text='॰' chars='\u0970'/>
+        </keyMode>
+    </key>
+    <key row='3' column='9' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='.' chars='\u002e'/>
+            <generate text='.' chars='\u002e'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='।' chars='\u0964'/>
+            <generate text='।' chars='\u0964'/>
+        </keyMode>
+        <keyMode shift='true' altGR='true'>
+            <display text='ऽ' chars='\u093d'/>
+            <generate text='ऽ' chars='\u093d'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='॥' chars='\u0965'/>
+            <generate text='॥' chars='\u0965'/>
+        </keyMode>
+    </key>
+    <key row='3' column='10' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='य' chars='\u092f'/>
+            <generate text='य' chars='\u092f'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='य़' chars='\u095f'/>
+            <generate text='य़' chars='\u095f'/>
+        </keyMode>
+    </key>
+</keyMap>

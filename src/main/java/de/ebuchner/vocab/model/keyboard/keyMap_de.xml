@@ -1,0 +1,531 @@
+<?xml version='1.0' encoding='utf-8'?>
+<keyMap name="Deutsche QWERTZ Tastatur" locale='de'>
+    <key row='0' column='0'>
+        <keyMode shift='false' altGR='false'>
+            <display text='^' chars='\u005e'/>
+            <generate text='^' chars='\u005e'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='°' chars='\u00b0'/>
+            <generate text='°' chars='\u00b0'/>
+        </keyMode>
+    </key>
+    <key row='0' column='1'>
+        <keyMode shift='false' altGR='false'>
+            <display text='1' chars='\u0031'/>
+            <generate text='1' chars='\u0031'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='!' chars='\u0021'/>
+            <generate text='!' chars='\u0021'/>
+        </keyMode>
+    </key>
+    <key row='0' column='2'>
+        <keyMode shift='false' altGR='false'>
+            <display text='2' chars='\u0032'/>
+            <generate text='2' chars='\u0032'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='"' chars='\u0022'/>
+            <generate text='"' chars='\u0022'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='²' chars='\u00B2'/>
+            <generate text='²' chars='\u00B2'/>
+        </keyMode>
+    </key>
+    <key row='0' column='3'>
+        <keyMode shift='false' altGR='false'>
+            <display text='3' chars='\u0033'/>
+            <generate text='3' chars='\u0033'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='§' chars='\u00a7'/>
+            <generate text='§' chars='\u00a7'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='³' chars='\u00B3'/>
+            <generate text='³' chars='\u00B3'/>
+        </keyMode>
+    </key>
+    <key row='0' column='4'>
+        <keyMode shift='false' altGR='false'>
+            <display text='4' chars='\u0034'/>
+            <generate text='4' chars='\u0034'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='$' chars='\u0024'/>
+            <generate text='$' chars='\u0024'/>
+        </keyMode>
+    </key>
+    <key row='0' column='5'>
+        <keyMode shift='false' altGR='false'>
+            <display text='5' chars='\u0035'/>
+            <generate text='5' chars='\u0035'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='%' chars='\u0025'/>
+            <generate text='%' chars='\u0025'/>
+        </keyMode>
+    </key>
+    <key row='0' column='6'>
+        <keyMode shift='false' altGR='false'>
+            <display text='6' chars='\u0036'/>
+            <generate text='6' chars='\u0036'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='&amp;' chars='\u0026'/>
+            <generate text='&amp;' chars='\u0026'/>
+        </keyMode>
+    </key>
+    <key row='0' column='7'>
+        <keyMode shift='false' altGR='false'>
+            <display text='7' chars='\u0037'/>
+            <generate text='7' chars='\u0037'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='/' chars='\u002f'/>
+            <generate text='/' chars='\u002f'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='{' chars='\u007B'/>
+            <generate text='{' chars='\u007B'/>
+        </keyMode>
+    </key>
+    <key row='0' column='8'>
+        <keyMode shift='false' altGR='false'>
+            <display text='8' chars='\u0038'/>
+            <generate text='8' chars='\u0038'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='(' chars='\u0028'/>
+            <generate text='(' chars='\u0028'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='[' chars='\u005B'/>
+            <generate text='[' chars='\u005B'/>
+        </keyMode>
+    </key>
+    <key row='0' column='9'>
+        <keyMode shift='false' altGR='false'>
+            <display text='9' chars='\u0039'/>
+            <generate text='9' chars='\u0039'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text=')' chars='\u0029'/>
+            <generate text=')' chars='\u0029'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text=']' chars='\u005D'/>
+            <generate text=']' chars='\u005D'/>
+        </keyMode>
+    </key>
+    <key row='0' column='10'>
+        <keyMode shift='false' altGR='false'>
+            <display text='0' chars='\u0030'/>
+            <generate text='0' chars='\u0030'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='=' chars='\u003d'/>
+            <generate text='=' chars='\u003d'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='}' chars='\u007D'/>
+            <generate text='}' chars='\u007D'/>
+        </keyMode>
+    </key>
+    <key row='0' column='11'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ß' chars='\u00df'/>
+            <generate text='ß' chars='\u00df'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='?' chars='\u003f'/>
+            <generate text='?' chars='\u003f'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='\' chars='\u005C'/>
+            <generate text='\' chars='\u005C'/>
+        </keyMode>
+    </key>
+    <key row='0' column='12'>
+        <keyMode shift='false' altGR='false'>
+            <display text='´' chars='\u00b4'/>
+            <generate text='´' chars='\u00b4'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='`' chars='\u0060'/>
+            <generate text='`' chars='\u0060'/>
+        </keyMode>
+    </key>
+    <key row='1' column='0' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='q' chars='\u0071'/>
+            <generate text='q' chars='\u0071'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Q' chars='\u0051'/>
+            <generate text='Q' chars='\u0051'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='@' chars='\u0040'/>
+            <generate text='@' chars='\u0040'/>
+        </keyMode>
+    </key>
+    <key row='1' column='1' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='w' chars='\u0077'/>
+            <generate text='w' chars='\u0077'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='W' chars='\u0057'/>
+            <generate text='W' chars='\u0057'/>
+        </keyMode>
+    </key>
+    <key row='1' column='2' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='e' chars='\u0065'/>
+            <generate text='e' chars='\u0065'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='E' chars='\u0045'/>
+            <generate text='E' chars='\u0045'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='€' chars='\u20AC'/>
+            <generate text='€' chars='\u20AC'/>
+        </keyMode>
+    </key>
+    <key row='1' column='3' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='r' chars='\u0072'/>
+            <generate text='r' chars='\u0072'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='R' chars='\u0052'/>
+            <generate text='R' chars='\u0052'/>
+        </keyMode>
+    </key>
+    <key row='1' column='4' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='t' chars='\u0074'/>
+            <generate text='t' chars='\u0074'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='T' chars='\u0054'/>
+            <generate text='T' chars='\u0054'/>
+        </keyMode>
+    </key>
+    <key row='1' column='5' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='z' chars='\u007a'/>
+            <generate text='z' chars='\u007a'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Z' chars='\u005a'/>
+            <generate text='Z' chars='\u005a'/>
+        </keyMode>
+    </key>
+    <key row='1' column='6' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='u' chars='\u0075'/>
+            <generate text='u' chars='\u0075'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='U' chars='\u0055'/>
+            <generate text='U' chars='\u0055'/>
+        </keyMode>
+    </key>
+    <key row='1' column='7' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='i' chars='\u0069'/>
+            <generate text='i' chars='\u0069'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='I' chars='\u0049'/>
+            <generate text='I' chars='\u0049'/>
+        </keyMode>
+    </key>
+    <key row='1' column='8' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='o' chars='\u006f'/>
+            <generate text='o' chars='\u006f'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='O' chars='\u004f'/>
+            <generate text='O' chars='\u004f'/>
+        </keyMode>
+    </key>
+    <key row='1' column='9' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='p' chars='\u0070'/>
+            <generate text='p' chars='\u0070'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='P' chars='\u0050'/>
+            <generate text='P' chars='\u0050'/>
+        </keyMode>
+    </key>
+    <key row='1' column='10' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ü' chars='\u00fc'/>
+            <generate text='ü' chars='\u00fc'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Ü' chars='\u00dc'/>
+            <generate text='Ü' chars='\u00dc'/>
+        </keyMode>
+    </key>
+    <key row='1' column='11'>
+        <keyMode shift='false' altGR='false'>
+            <display text='+' chars='\u002b'/>
+            <generate text='+' chars='\u002b'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='*' chars='\u002a'/>
+            <generate text='*' chars='\u002a'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='~' chars='\u007E'/>
+            <generate text='~' chars='\u007E'/>
+        </keyMode>
+    </key>
+    <key row='2' column='0' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='a' chars='\u0061'/>
+            <generate text='a' chars='\u0061'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='A' chars='\u0041'/>
+            <generate text='A' chars='\u0041'/>
+        </keyMode>
+    </key>
+    <key row='2' column='1' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='s' chars='\u0073'/>
+            <generate text='s' chars='\u0073'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='S' chars='\u0053'/>
+            <generate text='S' chars='\u0053'/>
+        </keyMode>
+    </key>
+    <key row='2' column='2' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='d' chars='\u0064'/>
+            <generate text='d' chars='\u0064'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='D' chars='\u0044'/>
+            <generate text='D' chars='\u0044'/>
+        </keyMode>
+    </key>
+    <key row='2' column='3' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='f' chars='\u0066'/>
+            <generate text='f' chars='\u0066'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='F' chars='\u0046'/>
+            <generate text='F' chars='\u0046'/>
+        </keyMode>
+    </key>
+    <key row='2' column='4' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='g' chars='\u0067'/>
+            <generate text='g' chars='\u0067'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='G' chars='\u0047'/>
+            <generate text='G' chars='\u0047'/>
+        </keyMode>
+    </key>
+    <key row='2' column='5' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='h' chars='\u0068'/>
+            <generate text='h' chars='\u0068'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='H' chars='\u0048'/>
+            <generate text='H' chars='\u0048'/>
+        </keyMode>
+    </key>
+    <key row='2' column='6' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='j' chars='\u006a'/>
+            <generate text='j' chars='\u006a'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='J' chars='\u004a'/>
+            <generate text='J' chars='\u004a'/>
+        </keyMode>
+    </key>
+    <key row='2' column='7' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='k' chars='\u006b'/>
+            <generate text='k' chars='\u006b'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='K' chars='\u004b'/>
+            <generate text='K' chars='\u004b'/>
+        </keyMode>
+    </key>
+    <key row='2' column='8' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='l' chars='\u006c'/>
+            <generate text='l' chars='\u006c'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='L' chars='\u004c'/>
+            <generate text='L' chars='\u004c'/>
+        </keyMode>
+    </key>
+    <key row='2' column='9' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ö' chars='\u00f6'/>
+            <generate text='ö' chars='\u00f6'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Ö' chars='\u00d6'/>
+            <generate text='Ö' chars='\u00d6'/>
+        </keyMode>
+    </key>
+    <key row='2' column='10' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ä' chars='\u00e4'/>
+            <generate text='ä' chars='\u00e4'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Ä' chars='\u00c4'/>
+            <generate text='Ä' chars='\u00c4'/>
+        </keyMode>
+    </key>
+    <key row='2' column='11'>
+        <keyMode shift='false' altGR='false'>
+            <display text='#' chars='\u0023'/>
+            <generate text='#' chars='\u0023'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='&apos;' chars='\u0027'/>
+            <generate text='&apos;' chars='\u0027'/>
+        </keyMode>
+    </key>
+    <key row='3' column='0'>
+        <keyMode shift='false' altGR='false'>
+            <display text='&lt;' chars='\u003c'/>
+            <generate text='&lt;' chars='\u003c'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='&gt;' chars='\u003e'/>
+            <generate text='&gt;' chars='\u003e'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='|' chars='\u007C'/>
+            <generate text='|' chars='\u007C'/>
+        </keyMode>
+    </key>
+    <key row='3' column='1' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='y' chars='\u0079'/>
+            <generate text='y' chars='\u0079'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Y' chars='\u0059'/>
+            <generate text='Y' chars='\u0059'/>
+        </keyMode>
+    </key>
+    <key row='3' column='2' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='x' chars='\u0078'/>
+            <generate text='x' chars='\u0078'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='X' chars='\u0058'/>
+            <generate text='X' chars='\u0058'/>
+        </keyMode>
+    </key>
+    <key row='3' column='3' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='c' chars='\u0063'/>
+            <generate text='c' chars='\u0063'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='C' chars='\u0043'/>
+            <generate text='C' chars='\u0043'/>
+        </keyMode>
+    </key>
+    <key row='3' column='4' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='v' chars='\u0076'/>
+            <generate text='v' chars='\u0076'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='V' chars='\u0056'/>
+            <generate text='V' chars='\u0056'/>
+        </keyMode>
+    </key>
+    <key row='3' column='5' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='b' chars='\u0062'/>
+            <generate text='b' chars='\u0062'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='B' chars='\u0042'/>
+            <generate text='B' chars='\u0042'/>
+        </keyMode>
+    </key>
+    <key row='3' column='6' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='n' chars='\u006e'/>
+            <generate text='n' chars='\u006e'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='N' chars='\u004e'/>
+            <generate text='N' chars='\u004e'/>
+        </keyMode>
+    </key>
+    <key row='3' column='7' capitalOnly='true'>
+        <keyMode shift='false' altGR='false'>
+            <display text='m' chars='\u006d'/>
+            <generate text='m' chars='\u006d'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='M' chars='\u004d'/>
+            <generate text='M' chars='\u004d'/>
+        </keyMode>
+        <keyMode shift='false' altGR='true'>
+            <display text='µ' chars='\u03BC'/>
+            <generate text='µ' chars='\u03BC'/>
+        </keyMode>
+    </key>
+    <key row='3' column='8'>
+        <keyMode shift='false' altGR='false'>
+            <display text=',' chars='\u002c'/>
+            <generate text=',' chars='\u002c'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text=';' chars='\u003b'/>
+            <generate text=';' chars='\u003b'/>
+        </keyMode>
+    </key>
+    <key row='3' column='9'>
+        <keyMode shift='false' altGR='false'>
+            <display text='.' chars='\u002e'/>
+            <generate text='.' chars='\u002e'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text=':' chars='\u003a'/>
+            <generate text=':' chars='\u003a'/>
+        </keyMode>
+    </key>
+    <key row='3' column='10'>
+        <keyMode shift='false' altGR='false'>
+            <display text='-' chars='\u002d'/>
+            <generate text='-' chars='\u002d'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='_' chars='\u005f'/>
+            <generate text='_' chars='\u005f'/>
+        </keyMode>
+    </key>
+</keyMap>

@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='utf-8'?>
+<keyMap name="Russian Keyboard" locale='hi'>
+    <key row='0' column='0' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ё' chars='\u0451'/>
+            <generate text='ё' chars='\u0451'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Ё' chars='\u0401'/>
+            <generate text='Ё' chars='\u0401'/>
+        </keyMode>
+    </key>
+    <key row='0' column='1' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='1' chars='\u0031'/>
+            <generate text='1' chars='\u0031'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='!' chars='\u0021'/>
+            <generate text='!' chars='\u0021'/>
+        </keyMode>
+    </key>
+    <key row='0' column='2' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='2' chars='\u0032'/>
+            <generate text='2' chars='\u0032'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='"' chars='\u0022'/>
+            <generate text='"' chars='\u0022'/>
+        </keyMode>
+    </key>
+    <key row='0' column='3' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='3' chars='\u0033'/>
+            <generate text='3' chars='\u0033'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='№' chars='\u2116'/>
+            <generate text='№' chars='\u2116'/>
+        </keyMode>
+    </key>
+    <key row='0' column='4' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='4' chars='\u0034'/>
+            <generate text='4' chars='\u0034'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text=';' chars='\u003B'/>
+            <generate text=';' chars='\u003B'/>
+        </keyMode>
+    </key>
+    <key row='0' column='5' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='5' chars='\u0035'/>
+            <generate text='5' chars='\u0035'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='%' chars='\u0025'/>
+            <generate text='%' chars='\u0025'/>
+        </keyMode>
+    </key>
+    <key row='0' column='6' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='6' chars='\u0036'/>
+            <generate text='6' chars='\u0036'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text=':' chars='\u003A'/>
+            <generate text=':' chars='\u003A'/>
+        </keyMode>
+    </key>
+    <key row='0' column='7' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='7' chars='\u0037'/>
+            <generate text='7' chars='\u0037'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='?' chars='\u003f'/>
+            <generate text='?' chars='\u003f'/>
+        </keyMode>
+    </key>
+    <key row='0' column='8' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='8' chars='\u0038'/>
+            <generate text='8' chars='\u0038'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='*' chars='\u002a'/>
+            <generate text='*' chars='\u002a'/>
+        </keyMode>
+    </key>
+    <key row='0' column='9' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='9' chars='\u0039'/>
+            <generate text='9' chars='\u0039'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='(' chars='\u0028'/>
+            <generate text='(' chars='\u0028'/>
+        </keyMode>
+    </key>
+    <key row='0' column='10' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='0' chars='\u0030'/>
+            <generate text='0' chars='\u0030'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text=')' chars='\u0029'/>
+            <generate text=')' chars='\u0029'/>
+        </keyMode>
+    </key>
+    <key row='0' column='11' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='-' chars='\u002d'/>
+            <generate text='-' chars='\u002d'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='_' chars='\u005f'/>
+            <generate text='_' chars='\u005f'/>
+        </keyMode>
+    </key>
+    <key row='0' column='12' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='=' chars='\u003d'/>
+            <generate text='=' chars='\u003d'/>
+        </keyMode>
+        <keyMode shift='true' altGR='true'>
+            <display text='+' chars='\u002b'/>
+            <generate text='+' chars='\u002b'/>
+        </keyMode>
+    </key>
+    <key row='1' column='0' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='й' chars='\u0439'/>
+            <generate text='й' chars='\u0439'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Й' chars='\u0419'/>
+            <generate text='Й' chars='\u0419'/>
+        </keyMode>
+    </key>
+    <key row='1' column='1' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ц' chars='\u0446'/>
+            <generate text='ц' chars='\u0446'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Ц' chars='\u0426'/>
+            <generate text='Ц' chars='\u0426'/>
+        </keyMode>
+    </key>
+    <key row='1' column='2' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='у' chars='\u0443'/>
+            <generate text='у' chars='\u0443'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='У' chars='\u0423'/>
+            <generate text='У' chars='\u0423'/>
+        </keyMode>
+    </key>
+    <key row='1' column='3' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='к' chars='\u043a'/>
+            <generate text='к' chars='\u043a'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='К' chars='\u041a'/>
+            <generate text='К' chars='\u041a'/>
+        </keyMode>
+    </key>
+    <key row='1' column='4' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='е' chars='\u0435'/>
+            <generate text='е' chars='\u0435'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Е' chars='\u0415'/>
+            <generate text='Е' chars='\u0415'/>
+        </keyMode>
+    </key>
+    <key row='1' column='5' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='н' chars='\u043d'/>
+            <generate text='н' chars='\u043d'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Н' chars='\u041d'/>
+            <generate text='Н' chars='\u041d'/>
+        </keyMode>
+    </key>
+    <key row='1' column='6' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='г' chars='\u0433'/>
+            <generate text='г' chars='\u0433'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Г' chars='\u0413'/>
+            <generate text='Г' chars='\u0413'/>
+        </keyMode>
+    </key>
+    <key row='1' column='7' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ш' chars='\u0448'/>
+            <generate text='ш' chars='\u0448'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Ш' chars='\u0428'/>
+            <generate text='Ш' chars='\u0428'/>
+        </keyMode>
+    </key>
+    <key row='1' column='8' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='щ' chars='\u0449'/>
+            <generate text='щ' chars='\u0449'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Щ' chars='\u0429'/>
+            <generate text='Щ' chars='\u0429'/>
+        </keyMode>
+    </key>
+    <key row='1' column='9' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='з' chars='\u0437'/>
+            <generate text='з' chars='\u0437'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='З' chars='\u0417'/>
+            <generate text='З' chars='\u0417'/>
+        </keyMode>
+    </key>
+    <key row='1' column='10' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='х' chars='\u0445'/>
+            <generate text='х' chars='\u0445'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Х' chars='\u0425'/>
+            <generate text='Х' chars='\u0425'/>
+        </keyMode>
+    </key>
+    <key row='1' column='11' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ъ' chars='\u044a'/>
+            <generate text='ъ' chars='\u044a'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Ъ' chars='\u042a'/>
+            <generate text='Ъ' chars='\u042a'/>
+        </keyMode>
+    </key>
+    <key row='1' column='12' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='\' chars='\u005c'/>
+            <generate text='\' chars='\u005c'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='/' chars='\u002f'/>
+            <generate text='/' chars='\u002f'/>
+        </keyMode>
+    </key>
+    <key row='2' column='0' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ф' chars='\u0444'/>
+            <generate text='ф' chars='\u0444'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Ф' chars='\u0424'/>
+            <generate text='Ф' chars='\u0424'/>
+        </keyMode>
+    </key>
+    <key row='2' column='1' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ы' chars='\u044b'/>
+            <generate text='ы' chars='\u044b'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Ы' chars='\u042b'/>
+            <generate text='Ы' chars='\u042b'/>
+        </keyMode>
+    </key>
+    <key row='2' column='2' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='в' chars='\u0432'/>
+            <generate text='в' chars='\u0432'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='В' chars='\u0412'/>
+            <generate text='В' chars='\u0412'/>
+        </keyMode>
+    </key>
+    <key row='2' column='3' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='а' chars='\u0430'/>
+            <generate text='а' chars='\u0430'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='А' chars='\u0410'/>
+            <generate text='А' chars='\u0410'/>
+        </keyMode>
+    </key>
+    <key row='2' column='4' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='п' chars='\u043f'/>
+            <generate text='п' chars='\u043f'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='П' chars='\u041f'/>
+            <generate text='П' chars='\u041f'/>
+        </keyMode>
+    </key>
+    <key row='2' column='5' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='р' chars='\u0440'/>
+            <generate text='р' chars='\u0440'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Р' chars='\u0420'/>
+            <generate text='Р' chars='\u0420'/>
+        </keyMode>
+    </key>
+    <key row='2' column='6' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='о' chars='\u043e'/>
+            <generate text='о' chars='\u043e'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='О' chars='\u041e'/>
+            <generate text='О' chars='\u041e'/>
+        </keyMode>
+    </key>
+    <key row='2' column='7' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='л' chars='\u043b'/>
+            <generate text='л' chars='\u043b'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Л' chars='\u041b'/>
+            <generate text='Л' chars='\u041b'/>
+        </keyMode>
+    </key>
+    <key row='2' column='8' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='д' chars='\u0434'/>
+            <generate text='д' chars='\u0434'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Д' chars='\u0414'/>
+            <generate text='Д' chars='\u0414'/>
+        </keyMode>
+    </key>
+    <key row='2' column='9' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ж' chars='\u0436'/>
+            <generate text='ж' chars='\u0436'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Ж' chars='\u0416'/>
+            <generate text='Ж' chars='\u0416'/>
+        </keyMode>
+    </key>
+    <key row='2' column='10' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='э' chars='\u044d'/>
+            <generate text='э' chars='\u044d'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Э' chars='\u042d'/>
+            <generate text='Э' chars='\u042d'/>
+        </keyMode>
+    </key>
+    <key row='3' column='0' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='я' chars='\u044f'/>
+            <generate text='я' chars='\u044f'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Я' chars='\u042f'/>
+            <generate text='Я' chars='\u042f'/>
+        </keyMode>
+    </key>
+    <key row='3' column='1' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ч' chars='\u0447'/>
+            <generate text='ч' chars='\u0447'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Ч' chars='\u0427'/>
+            <generate text='Ч' chars='\u0427'/>
+        </keyMode>
+    </key>
+    <key row='3' column='2' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='с' chars='\u0441'/>
+            <generate text='с' chars='\u0441'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='С' chars='\u0421'/>
+            <generate text='С' chars='\u0421'/>
+        </keyMode>
+    </key>
+    <key row='3' column='3' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='м' chars='\u043c'/>
+            <generate text='м' chars='\u043c'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='М' chars='\u041c'/>
+            <generate text='М' chars='\u041c'/>
+        </keyMode>
+    </key>
+    <key row='3' column='4' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='и' chars='\u0438'/>
+            <generate text='и' chars='\u0438'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='И' chars='\u0418'/>
+            <generate text='И' chars='\u0418'/>
+        </keyMode>
+    </key>
+    <key row='3' column='5' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='т' chars='\u0442'/>
+            <generate text='т' chars='\u0442'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Т' chars='\u0422'/>
+            <generate text='Т' chars='\u0422'/>
+        </keyMode>
+    </key>
+    <key row='3' column='6' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ь' chars='\u044c'/>
+            <generate text='ь' chars='\u044c'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Ь' chars='\u042c'/>
+            <generate text='Ь' chars='\u042c'/>
+        </keyMode>
+    </key>
+    <key row='3' column='7' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='б' chars='\u0431'/>
+            <generate text='б' chars='\u0431'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Б' chars='\u0411'/>
+            <generate text='Б' chars='\u0411'/>
+        </keyMode>
+    </key>
+    <key row='3' column='8' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='ю' chars='\u044e'/>
+            <generate text='ю' chars='\u044e'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text='Ю' chars='\u042e'/>
+            <generate text='Ю' chars='\u042e'/>
+        </keyMode>
+    </key>
+    <key row='3' column='9' capitalOnly='false'>
+        <keyMode shift='false' altGR='false'>
+            <display text='.' chars='\u002e'/>
+            <generate text='.' chars='\u002e'/>
+        </keyMode>
+        <keyMode shift='true' altGR='false'>
+            <display text=',' chars='\u002c'/>
+            <generate text=',' chars='\u002c'/>
+        </keyMode>
+    </key>
+</keyMap>
