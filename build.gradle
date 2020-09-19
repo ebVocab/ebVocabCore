@@ -20,6 +20,36 @@ dependencies {
 }
 
 publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            artifactId = 'ebVocabCore'
+            from components.java
+            versionMapping {
+                usage('java-api') {
+                    fromResolutionOf('runtimeClasspath')
+                }
+                usage('java-runtime') {
+                    fromResolutionResult()
+                }
+            }
+            pom {
+                name = 'ebVocabCore'
+                description = 'The ebVocab core libraries'
+                url = 'https://github.com/ebVocab/ebVocabCore'
+                properties = [
+                        myProp: "value",
+                        "prop.with.dots": "anotherValue"
+                ]
+                licenses {
+                    license {
+                        name = 'The Apache License, Version 2.0'
+                        url = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+                    }
+                }
+            }
+        }
+    }
+
     repositories {
         maven {
             name = "GitHubPackages"
