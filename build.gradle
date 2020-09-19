@@ -21,25 +21,13 @@ dependencies {
 
 publishing {
     publications {
-        gpr(MavenPublication) {
+        mavenJava(MavenPublication) {
             artifactId = 'ebVocabCore'
             from components.java
-            versionMapping {
-                usage('java-api') {
-                    fromResolutionOf('runtimeClasspath')
-                }
-                usage('java-runtime') {
-                    fromResolutionResult()
-                }
-            }
             pom {
                 name = 'ebVocabCore'
                 description = 'The ebVocab core libraries'
                 url = 'https://github.com/ebVocab/ebVocabCore'
-                properties = [
-                        myProp: "value",
-                        "prop.with.dots": "anotherValue"
-                ]
                 licenses {
                     license {
                         name = 'The Apache License, Version 2.0'
@@ -52,11 +40,11 @@ publishing {
 
     repositories {
         maven {
-            name = "GitHubPackages"
-            url = "https://maven.pkg.github.com/ebVocab/ebVocabCore"
+            name = "Nexus"
+            url = "https://cloud.twometer.de/nexus/repository/maven-releases"
             credentials {
-                username = System.getenv("GITHUB_ACTOR")
-                password = System.getenv("GITHUB_TOKEN")
+                username = System.getenv("MAVEN_USER")
+                password = System.getenv("MAVEN_PASS")
             }
         }
     }

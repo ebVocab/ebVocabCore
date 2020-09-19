@@ -1,4 +1,4 @@
-name: Publish package to GitHub Packages on release
+name: Publish maven package
 on:
   release:
     types: [created]
@@ -13,4 +13,5 @@ jobs:
       - name: Publish package
         run: gradle publish
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAVEN_USER: ${{ secrets.MAVEN_USER }}
+          MAVEN_PASS: ${{ secrets.MAVEN_PASS }}
