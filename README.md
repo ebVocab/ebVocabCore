@@ -1,0 +1,2 @@
+# ebVocabCore
+ebVocab Core Libraries
