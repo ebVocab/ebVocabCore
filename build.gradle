@@ -40,8 +40,8 @@ publishing {
 
     repositories {
         maven {
-            name = "Nexus"
-            url = "https://cloud.twometer.de/nexus/repository/maven-releases"
+            name = "Twometer"
+            url = "https://maven.twometer.cloud/releases"
             credentials {
                 username = System.getenv("MAVEN_USER")
                 password = System.getenv("MAVEN_PASS")
