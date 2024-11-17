@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - name: Set up JDK 1.8
       uses: actions/setup-java@v1
       with:
@@ -25,10 +25,7 @@ jobs:
     - name: Build with Gradle
       run: ./gradlew build jar
     - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v2.1.4
+      uses: actions/upload-artifact@v4
       with:
-        # Artifact name
-        name: ebVocabCore.jar # optional, default is artifact
-        # A file, directory or wildcard pattern that describes what to upload
+        name: ebVocabCore.jar
         path: build/libs/ebVocabCore-*.jar
-        # The desired behavior if no files are found using the provided path.
